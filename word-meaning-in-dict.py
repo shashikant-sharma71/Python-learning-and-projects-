@@ -7,6 +7,6 @@ dicts={
     "Mahaan":"Great"
 }
 
-dict=input("Enter The word in Hindi ")
+# dict=input("Enter The word in Hindi ")
 
-print(dicts[dict])
+print(dicts)
