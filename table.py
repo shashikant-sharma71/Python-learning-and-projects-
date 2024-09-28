@@ -1,9 +1,9 @@
 
-n=int(input("Enter a number: "))
-for i in range(1,11):
+# n=int(input("Enter a number: "))
+# for i in range(1,11):
   
-    print(f"{n} X {i}={n*i}")
-
+#     print(f"{n} X {11-i}={n*(11-i)}")
+     
 
 
 
@@ -14,4 +14,7 @@ for i in range(1,11):
     
 #     print(23,"X",i,"=",i*23)
     
+
+
+
 
